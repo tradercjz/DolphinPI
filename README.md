@@ -1,7 +1,7 @@
 # DolphinPI
 
 <p align="center">
-  <strong>🐬 基于 <a href="https://github.com/earendil-works/pi-coding-agent">pi-coding-agent</a> 的 DolphinDB 智能编程助手</strong>
+  <strong>🐬 基于 <a href="https://pi.dev">pi-coding-agent</a> 的 DolphinDB 智能编程助手</strong>
 </p>
 
 <p align="center">
