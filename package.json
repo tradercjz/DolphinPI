@@ -1,0 +1,24 @@
+{
+  "name": "dolphinpi",
+  "version": "1.0.0",
+  "description": "DolphinPI - A pi-coding-agent extension for DolphinDB programming with RAG-powered documentation retrieval via DolphinMind",
+  "keywords": [
+    "pi-package",
+    "dolphindb",
+    "dolphinmind",
+    "rag"
+  ],
+  "author": "",
+  "license": "MIT",
+  "pi": {
+    "extensions": [
+      "./extensions/dolphinpi"
+    ],
+    "skills": [
+      "./skills/dolphinpi"
+    ]
+  },
+  "dependencies": {
+    "dolphindb": "^3.1.48"
+  }
+}
